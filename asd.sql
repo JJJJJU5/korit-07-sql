@@ -1,0 +1,1 @@
+SELECT 28 + 91 AS 'Result'
